@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.231,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Remont.dproj=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont.dproj=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\MainForm.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Autorisetion.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Authorization.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Autorisetion.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Authorization.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\F_Add.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Add_record.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\F_Add.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\F_Add.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\MainForm.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.dfm=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Autorisetion.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\F_Add.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Add_record.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Unit1.pas=C:\Users\Wadim\Documents\Embarcadero\Studio\Projects\Remont\Autorisetion.pas</Transaction>
+  </Transactions>
+</BorlandProject>
