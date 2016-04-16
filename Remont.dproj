@@ -107,6 +107,66 @@
             <Form>F_add_record</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="Choice_Client.pas">
+            <Form>F_choice_client</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Card_Produkt_edit.pas">
+            <Form>F_card_produkt_edit</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Akt_Priema.pas">
+            <Form>F_akt_priema</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Generic_number_akt.pas">
+            <Form>F_Generic_number_akt</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Akty.pas">
+            <Form>F_akty</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Raspisky.pas">
+            <Form>F_raspisky</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Support_Zapisky.pas">
+            <Form>F_support_zapisky</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="History_Change_Status.pas">
+            <Form>F_history_change_status</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="History_Change_Location.pas">
+            <Form>F_history_change_location</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Search_Akt.pas">
+            <Form>F_search_akt</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Select_Check.pas">
+            <Form>F_select_check</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Options.pas">
+            <Form>F_options</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="List_Status.pas">
+            <Form>F_list_status</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="List_Location.pas">
+            <Form>F_list_location</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Employees.pas">
+            <Form>F_employees</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -529,6 +589,7 @@
                 <Platform value="Win32">True</Platform>
                 <Platform value="Win64">False</Platform>
             </Platforms>
+            <ModelSupport>False</ModelSupport>
         </BorlandProject>
         <ProjectFileVersion>12</ProjectFileVersion>
     </ProjectExtensions>

@@ -16,9 +16,6 @@ Coordinates=387,337,40,33
 [CheckBox4]
 Coordinates=413,10,95,51
 
-[N27]
-Coordinates=338,337,40,33
-
 [N6]
 Coordinates=289,337,40,33
 
@@ -109,14 +106,11 @@ Coordinates=294,10,47,51
 [MainMenu1]
 Coordinates=79,408,70,33
 
-[N25]
-Coordinates=30,408,40,33
-
 [N26]
 Coordinates=647,1,40,33
 
 []
-Coordinates=10,193,53,51
+Coordinates=338,337,40,33
 Visible=True
 
 [authorizationM]

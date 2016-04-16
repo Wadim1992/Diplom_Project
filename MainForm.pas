@@ -37,9 +37,7 @@ type
     N24: TMenuItem;
     N29: TMenuItem;
     N28: TMenuItem;
-    N25: TMenuItem;
     N26: TMenuItem;
-    N27: TMenuItem;
     N6: TMenuItem;
     N21: TMenuItem;
     N22: TMenuItem;
@@ -72,6 +70,8 @@ type
     procedure SB_ExitClick(Sender: TObject);
     procedure SB_AddClick(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure SB_EditClick(Sender: TObject);
+    procedure N23Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -83,7 +83,7 @@ var
 
 implementation
 
-uses Authorization,Add_record;
+uses Authorization,Add_record,Card_Produkt_edit, Options;
 
 {$R *.dfm}
 
@@ -94,6 +94,11 @@ ADOQuery1.SQL.Add('SELECT * FROM Ремонт');
 ADOQuery1.Active:=True;
 end;
 
+procedure TF_Main.N23Click(Sender: TObject);
+begin
+F_options.ShowModal;
+end;
+
 procedure TF_Main.SBAuthorizationClick(Sender: TObject);
 begin
 F_authorization.ShowModal;
@@ -102,6 +107,11 @@ end;
 procedure TF_Main.SB_AddClick(Sender: TObject);
 begin
 F_add_record.ShowModal;
+end;
+
+procedure TF_Main.SB_EditClick(Sender: TObject);
+begin
+F_card_produkt_edit.ShowModal;
 end;
 
 procedure TF_Main.SB_ExitClick(Sender: TObject);
